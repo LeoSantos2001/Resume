@@ -21,6 +21,9 @@ Forte experiência em infraestrutura, administração Linux e plataformas de con
 ## Experiência Profissional
 **ORAEX Cloud Consulting** – Brasília, Brasil 
 Novembro 2022 – Setembro 2025
+
+### Consultor DevOps
+
 1. Atuei como N3 de OCP, sendo responsável por monitoramento do cluster e resposta rápida a incidentes em ambiente de produção e transacional.
 2. Atuei como responsável primário por incidentes de plataforma, executando root cause analysis e remediação de problemas em containers, Linux e infraestrutura
 3. Fui um dos responsáveis no projeto de Upgrade RHEL, realizando o processo em máquinas de todos entornos, sanando troubleshootings e entregando documentação das execuções
