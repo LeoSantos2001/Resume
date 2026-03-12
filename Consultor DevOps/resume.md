@@ -7,7 +7,7 @@
 
 ## Resumo
 
-Analista de Infraestrutura e DevOps, com mais de 2 anos de experiencia em ambientes de alta criticidade, com forte atuação em RHEL e Windows.
+Analista de Infraestrutura e DevOps, com mais de 4 anos de experiência em ambientes de alta criticidade, com forte atuação em RHEL e Windows.
 Forte experiência em infraestrutura, administração Linux e plataformas de containers. Especializado em suporte a ambientes OpenShift
 
 ## Competências
