@@ -28,8 +28,8 @@ Novembro 2022 – Setembro 2025
 2. Atuei como responsável primário por incidentes de plataforma, executando root cause analysis e remediação de problemas em containers, Linux e infraestrutura
 3. Fui um dos responsáveis no projeto de Upgrade RHEL, realizando o processo em máquinas de todos entornos, sanando troubleshootings e entregando documentação das execuções
 4. Criação de playbooks para automatização de processos relacionados a patches de segurança e atualização de ferramentas
-5. Treinamento e capacitação de novos integrantes do time, para atuação com RHEL e Openshift
-6. Aplicação de Patches de segurança, atualização de ferramentas (OHS, WLS, Tomcat) e suporte em Rhel e Windows
+5. Treinamento e capacitação de novos integrantes do time, para atuação com RHEL e OpenShift
+6. Aplicação de patches de segurança, atualização de ferramentas (OHS, WLS, Tomcat) e suporte em RHEL
 
 ## Formação
 
