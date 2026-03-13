@@ -1,7 +1,7 @@
 # Leandro de Oliveira Martins dos Santos
 
 **Localização:** Brasília, Brasil
-**Telefone:** +55 (61) 98354-4984 
+**Telefone:** +55 (61) 98354-4984
 **Email:** leandromsantos2001@gmail.com
 **LinkedIn:** http://www.linkedin.com/in/leandroomsantos
 
@@ -16,7 +16,7 @@ Forte experiência em infraestrutura, administração Linux e plataformas de con
 - **Automation:** Ansible
 - **Cloud:** AWS e Azure
 - **CI/CD & DevOps:** Azure DevOps 
-- **IaC & Operações:**  Monitoring, Troubleshooting, práticas de SRE
+- **IaC & Operações:**  VMware, Monitoring, Troubleshooting, práticas de SRE
 
 ## Experiência Profissional
 **ORAEX Cloud Consulting** – Brasília, Brasil 
@@ -24,12 +24,13 @@ Novembro 2022 – Setembro 2025
 
 ### Consultor DevOps
 
-1. Atuei como N3 de OCP, sendo responsável por monitoramento do cluster e resposta rápida a incidentes em ambiente de produção e transacional.
-2. Atuei como responsável primário por incidentes de plataforma, executando root cause analysis e remediação de problemas em containers, Linux e infraestrutura
-3. Fui um dos responsáveis no projeto de Upgrade RHEL, realizando o processo em máquinas de todos entornos, sanando troubleshootings e entregando documentação das execuções
-4. Criação de playbooks para automatização de processos relacionados a patches de segurança e atualização de ferramentas
-5. Treinamento e capacitação de novos integrantes do time, para atuação com RHEL e OpenShift
-6. Aplicação de patches de segurança, atualização de ferramentas (OHS, WLS, Tomcat) e suporte em RHEL
+1. Alocações em clientes, como Intelbras, Ultragaz e a mais duradora GETNET.
+2. Atuei como N3 de OCP, sendo responsável por monitoramento do cluster e resposta rápida a incidentes em ambiente de produção e transacional.
+3. Atuei como responsável primário por incidentes de plataforma, executando root cause analysis e remediação de problemas em containers, Linux e infraestrutura
+4. Fui um dos responsáveis no projeto de Upgrade RHEL, realizando o processo em máquinas de todos entornos, sanando troubleshootings e entregando documentação das execuções
+5. Criação de playbooks para automatização de processos relacionados a patches de segurança e atualização de ferramentas
+6. Treinamento e capacitação de novos integrantes do time, para atuação com RHEL e OpenShift
+7. Correção de vunerabilidades em RHEL e Windows
 
 ## Formação
 
@@ -51,7 +52,14 @@ Centro Universitário de Brasília – Brasília, DF
 1. Segurança em Linux
 1. Boas Práticas de Cibersegurança (Cybersecurity Awareness)
 
+## Projetos
+
+### Upgrade RHEL
+Projeto de upgrade de RHEL no parque de máquinas da GETNET, envolvendo mais de mil hosts distribuídos em ambiente de desenvolvimento, homologação, produção e transicional , variando da versão 6.4 até a 7.9 tendo como objetivo deixar na versão final 8.10. As execuções primeiramente foram feitas via CLI utilizando o Leapp e posteriormente foram feitas via Playbook, alguns casos demandaram troubleshooting e documentação de cada erro e processo realizado.
+
+
+
 ## Idiomas
 
-1. **Português**: Native
+1. **Português**: Nativo
 1. **Inglês**: Profissional
