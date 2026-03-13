@@ -19,18 +19,31 @@ Forte experiência em infraestrutura, administração Linux e plataformas de con
 - **IaC & Operações:**  VMware, Monitoring, Troubleshooting, práticas de SRE
 
 ## Experiência Profissional
+
+### Consultor DevOps
 **ORAEX Cloud Consulting** – Brasília, Brasil 
 Novembro 2022 – Setembro 2025
 
-### Consultor DevOps
+1. Atuei como N3 de OCP, sendo responsável por monitoramento do cluster e resposta rápida a incidentes em ambiente de produção e transacional.
+1. Implementação de Cluster OCP e ferramentas de monitoramento.
+2. Atuei como responsável primário por incidentes de plataforma, executando root cause analysis e remediação de problemas em containers, Linux e infraestrutura
+3. Upgrade de RHEL e Windows
+4. Criação de playbooks para automatização de processos relacionados a patches de segurança e atualização de ferramentas
+5. Treinamento e capacitação de novos integrantes do time, para atuação com RHEL e OpenShift
+6. Correção de vulnerabilidades em RHEL e Windows
+7. Criação de documentações referentes a chamados executados para uso interno e clientes.
+8. Participação em eventos e treinamentos dos partners (Red Hat, AWS)
 
-1. Alocações em clientes, como Intelbras, Ultragaz e a mais duradora GETNET.
-2. Atuei como N3 de OCP, sendo responsável por monitoramento do cluster e resposta rápida a incidentes em ambiente de produção e transacional.
-3. Atuei como responsável primário por incidentes de plataforma, executando root cause analysis e remediação de problemas em containers, Linux e infraestrutura
-4. Fui um dos responsáveis no projeto de Upgrade RHEL, realizando o processo em máquinas de todos entornos, sanando troubleshootings e entregando documentação das execuções
-5. Criação de playbooks para automatização de processos relacionados a patches de segurança e atualização de ferramentas
-6. Treinamento e capacitação de novos integrantes do time, para atuação com RHEL e OpenShift
-7. Correção de vunerabilidades em RHEL e Windows
+### Consultor DevOps
+**Getnet** (Alocação) – Brasília, Brasil 
+Novembro 2022 – Setembro 2025
+
+1. Atuei como N3 de OCP, sendo responsável por monitoramento do cluster e resposta rápida a incidentes em ambiente de produção e transacional.
+2. Atuei como responsável primário por incidentes de plataforma, executando root cause analysis e remediação de problemas em containers, Linux e infraestrutura
+3. Fui um dos responsáveis no projeto de Upgrade RHEL, realizando o processo em máquinas de todos entornos, sanando troubleshootings e entregando documentação das execuções
+4. Criação de playbooks para automatização de processos relacionados a patches de segurança e atualização de ferramentas
+6. Correção de vulnerabilidades em RHEL e Windows
+7. Boas práticas de segurança em Linux.
 
 ## Formação
 
@@ -56,8 +69,6 @@ Centro Universitário de Brasília – Brasília, DF
 
 ### Upgrade RHEL
 Projeto de upgrade de RHEL no parque de máquinas da GETNET, envolvendo mais de mil hosts distribuídos em ambiente de desenvolvimento, homologação, produção e transicional , variando da versão 6.4 até a 7.9 tendo como objetivo deixar na versão final 8.10. As execuções primeiramente foram feitas via CLI utilizando o Leapp e posteriormente foram feitas via Playbook, alguns casos demandaram troubleshooting e documentação de cada erro e processo realizado.
-
-
 
 ## Idiomas
 
