@@ -24,26 +24,20 @@ Forte experiência em infraestrutura, administração Linux e plataformas de con
 **ORAEX Cloud Consulting** – Brasília, Brasil 
 Novembro 2022 – Setembro 2025
 
-1. Atuei como N3 de OCP, sendo responsável por monitoramento do cluster e resposta rápida a incidentes em ambiente de produção e transacional.
-1. Implementação de Cluster OCP e ferramentas de monitoramento.
-2. Atuei como responsável primário por incidentes de plataforma, executando root cause analysis e remediação de problemas em containers, Linux e infraestrutura
-3. Upgrade de RHEL e Windows
-4. Criação de playbooks para automatização de processos relacionados a patches de segurança e atualização de ferramentas
-5. Treinamento e capacitação de novos integrantes do time, para atuação com RHEL e OpenShift
-6. Correção de vulnerabilidades em RHEL e Windows
-7. Criação de documentações referentes a chamados executados para uso interno e clientes.
-8. Participação em eventos e treinamentos dos partners (Red Hat, AWS)
+1. Automação de processos através da criação de playbooks voltados a patches de segurança e manutenção de sistemas operacionais.
+1. Correção de vulnerabilidades e aplicação de boas práticas de segurança em ambientes RHEL, Windows e Linux.
+1. Criação de documentação técnica para suporte interno e comunicação com clientes.
+1. Treinamento e capacitação de novos integrantes da equipe em tecnologias como RHEL e OpenShift.
+1. Participação em treinamentos e eventos técnicos com parceiros estratégicos (Red Hat, AWS).
 
 ### Consultor DevOps
-**Getnet** (Alocação) – Brasília, Brasil 
+**Getnet** (Contrato Indireto) – Brasília, Brasil 
 Novembro 2022 – Setembro 2025
 
-1. Atuei como N3 de OCP, sendo responsável por monitoramento do cluster e resposta rápida a incidentes em ambiente de produção e transacional.
-2. Atuei como responsável primário por incidentes de plataforma, executando root cause analysis e remediação de problemas em containers, Linux e infraestrutura
-3. Fui um dos responsáveis no projeto de Upgrade RHEL, realizando o processo em máquinas de todos entornos, sanando troubleshootings e entregando documentação das execuções
-4. Criação de playbooks para automatização de processos relacionados a patches de segurança e atualização de ferramentas
-6. Correção de vulnerabilidades em RHEL e Windows
-7. Boas práticas de segurança em Linux.
+1. Atuação como plantonista N3 de OpenShift, sendo responsável por monitoramento do cluster e resposta rápida a incidentes em ambiente de produção.
+1. Implementação e administração de clusters OpenShift, incluindo configuração de ferramentas de monitoramento.
+1. Atuação como responsável primário na gestão de incidentes de plataforma, conduzindo root cause analysis e remediação em ambientes Linux, OpenShift e infraestrutur1. 
+1. Projeto de upgrade RHEL em mais de mil máquinas de produção, com automação do processo utilizando Ansible Automation Platform, incluindo troubleshooting e validação pós-implementação.
 
 ## Formação
 
@@ -51,7 +45,7 @@ Novembro 2022 – Setembro 2025
 Universidade Católica de Brasília – Brasília, DF
 *Junho 2025 - Julho 2027*
 
-**Pós-Graduação em Computação na Nuvem**
+**Pós-Graduação em Cloud Computing**
 Centro Universitário de Brasília – Brasília, DF
 *Março 2022 - Março 2023*
 
@@ -59,16 +53,10 @@ Centro Universitário de Brasília – Brasília, DF
 Centro Universitário de Brasília – Brasília, DF
 *Março 2019 - Dezembro 2021*
 
-## Certificações
-
-1. LFS158: Introduction to Kubernetes
-1. Segurança em Linux
-1. Boas Práticas de Cibersegurança (Cybersecurity Awareness)
-
 ## Projetos
 
 ### Upgrade RHEL
-Projeto de upgrade de RHEL no parque de máquinas da GETNET, envolvendo mais de mil hosts distribuídos em ambiente de desenvolvimento, homologação, produção e transicional , variando da versão 6.4 até a 7.9 tendo como objetivo deixar na versão final 8.10. As execuções primeiramente foram feitas via CLI utilizando o Leapp e posteriormente foram feitas via Playbook, alguns casos demandaram troubleshooting e documentação de cada erro e processo realizado.
+Projeto de upgrade de RHEL no parque de máquinas da Getnet, envolvendo mais de mil hosts em ambiente de produção, indo das versões 6.4 para a versão 8.10. As tarefas de atualização que eram inicialmente feitas manualmente foram automatizadas via Ansible Automation Platform.
 
 ## Idiomas
 
