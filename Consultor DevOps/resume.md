@@ -39,6 +39,15 @@ Novembro 2022 – Setembro 2025
 1. Atuação como responsável primário na gestão de incidentes de plataforma, conduzindo root cause analysis e remediação em ambientes Linux, OpenShift e infraestrutur1. 
 1. Projeto de upgrade RHEL em mais de mil máquinas de produção, com automação do processo utilizando Ansible Automation Platform, incluindo troubleshooting e validação pós-implementação.
 
+### Consultor IT
+**VIPHVAC** - Malden, Massachusetts
+Janeiro 2026 - Atual
+
+1. Consultoria de TI para mercado brasileiro
+2. Gestão de TI
+3. Segurança da informação, LGPD e propriedade intelectual
+
+
 ## Formação
 
 **Ciências da Computação**
