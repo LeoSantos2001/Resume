@@ -39,13 +39,13 @@ Novembro 2022 – Setembro 2025
 1. Atuação como responsável primário na gestão de incidentes de plataforma, conduzindo root cause analysis e remediação em ambientes Linux, OpenShift e infraestrutur1. 
 1. Projeto de upgrade RHEL em mais de mil máquinas de produção, com automação do processo utilizando Ansible Automation Platform, incluindo troubleshooting e validação pós-implementação.
 
-### Consultor IT
-**VIPHVAC** - Malden, Massachusetts
-Janeiro 2026 - Atual
+### Platform Engineering
+**RWE** - Essen, North Rhine-Westphalia
+Outubro 2025 - Dezembro 2025 
 
-1. Consultoria de TI para mercado brasileiro, realizando estudo de mercado, potenciais melhorias para adequação ao Brasil da solução ofertada
-2. Gestão de TI, identificando recursos necessários para a solução, suporte e manutenção
-3. Segurança da informação, LGPD e propriedade intelectual
+1. Administração AWS Rosa
+2. Monitoramento de paineis referente a recursos da empresa
+
 
 
 ## Formação
