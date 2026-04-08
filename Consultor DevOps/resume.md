@@ -43,9 +43,9 @@ Novembro 2022 – Setembro 2025
 **RWE** - Essen, North Rhine-Westphalia
 Outubro 2025 - Dezembro 2025 
 
-1. Administração AWS
-2. Administração AWS Rosa
-3. Monitoramento de paineis referente a recursos da empresa
+1. Responsável pela administração e sustentação da infraestrutura AWS, com foco especializado em AWS ROSA (Red Hat OpenShift Service on AWS).
+2. Gestão de workloads conteinerizados, garantindo conformidade de segurança e automação de recursos de rede e storage.
+3. Monitoramento proativo de recursos globais da empresa através de painéis de observabilidade, focando na redução de downtime e otimização de performance dos clusters.
 
 
 
