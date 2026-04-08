@@ -16,7 +16,7 @@ Forte experiência em infraestrutura, administração Linux e plataformas de con
 - **Automation:** Ansible
 - **Cloud:** AWS e Azure
 - **CI/CD & DevOps:** Azure DevOps 
-- **IaC & Operações:**  VMware, Monitoring, Troubleshooting, práticas de SRE
+- **IaC & Operações:**  VMware, Monitoring (Datadgo e Zabbix), Troubleshooting, práticas de SRE
 
 ## Experiência Profissional
 
@@ -43,8 +43,8 @@ Novembro 2022 – Setembro 2025
 **VIPHVAC** - Malden, Massachusetts
 Janeiro 2026 - Atual
 
-1. Consultoria de TI para mercado brasileiro
-2. Gestão de TI
+1. Consultoria de TI para mercado brasileiro, realizando estudo de mercado, potenciais melhorias para adequação ao Brasil da solução ofertada
+2. Gestão de TI, identificando recursos necessários para a solução, suporte e manutenção
 3. Segurança da informação, LGPD e propriedade intelectual
 
 
@@ -65,7 +65,7 @@ Centro Universitário de Brasília – Brasília, DF
 ## Projetos
 
 ### Upgrade RHEL
-Projeto de upgrade de RHEL no parque de máquinas da Getnet, envolvendo mais de mil hosts em ambiente de produção, indo das versões 6.4 para a versão 8.10. As tarefas de atualização que eram inicialmente feitas manualmente foram automatizadas via Ansible Automation Platform.
+Projeto de upgrade de RHEL no parque de máquinas da Getnet, envolvendo mais de mil hosts em ambiente de desenvolvimento, homologação, produção e transacional sendo feita o upgrade da versão 6.4 para a versão 8.10. As tarefas de atualização que eram inicialmente feitas manualmente foram automatizadas via Ansible Automation Platform, sendo necessários em alguns casos realização de troubleshooting para ser bem sucedido o processo.
 
 ## Idiomas
 
