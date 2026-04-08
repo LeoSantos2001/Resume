@@ -45,7 +45,8 @@ Outubro 2025 - Dezembro 2025
 
 1. Responsável pela administração e sustentação da infraestrutura AWS, com foco especializado em AWS ROSA (Red Hat OpenShift Service on AWS).
 2. Gestão de workloads conteinerizados, garantindo conformidade de segurança e automação de recursos de rede e storage.
-3. Monitoramento proativo de recursos globais da empresa através de painéis de observabilidade, focando na redução de downtime e otimização de performance dos clusters.
+3. Atuação no projeto de implementação do Grafana para monitorar a produção de recursos.
+4. Monitoramento proativo de recursos energéticos da empresa através de painéis de observabilidade, focando na redução de downtime e otimização de performance dos clusters.
 
 
 
