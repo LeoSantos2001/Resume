@@ -43,8 +43,9 @@ Novembro 2022 – Setembro 2025
 **RWE** - Essen, North Rhine-Westphalia
 Outubro 2025 - Dezembro 2025 
 
-1. Administração AWS Rosa
-2. Monitoramento de paineis referente a recursos da empresa
+1. Administração AWS
+2. Administração AWS Rosa
+3. Monitoramento de paineis referente a recursos da empresa
 
 
 
