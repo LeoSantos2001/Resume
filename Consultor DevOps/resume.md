@@ -20,7 +20,7 @@ Analista de Infraestrutura e DevOps com mais de 4 anos de experiência em ambien
 ## Experiência Profissional
 ### Platform Engineering
 **RWE** (Freelance) - Essen, Alemanha
-Outubro 2025 - Dezembro 2025 
+*Outubro 2025 - Dezembro 2025*
 
 1. Responsável pela administração e sustentação da infraestrutura AWS, com foco especializado em AWS ROSA (Red Hat OpenShift Service on AWS).
 2. Gestão de workloads conteinerizados, garantindo conformidade de segurança e automação de recursos de rede e storage.
@@ -28,7 +28,7 @@ Outubro 2025 - Dezembro 2025
 
 ### Consultor DevOps
 **Getnet** (Contrato Indireto) – Brasília, Brasil 
-Novembro 2022 – Setembro 2025
+*Novembro 2022 – Setembro 2025*
 
 1. Instalação e administração de clusters OpenShift, incluindo configuração de ferramentas de monitoramento.
 1. Atuação como plantonista N3 de OpenShift, sendo responsável pelo monitoramento do cluster e resposta rápida a incidentes em ambiente de produção.
@@ -37,7 +37,7 @@ Novembro 2022 – Setembro 2025
 
 ### Consultor DevOps
 **ORAEX Cloud Consulting** – Brasília, Brasil 
-Novembro 2022 – Setembro 2025
+*Novembro 2022 – Setembro 2025*
 
 1. Automação de processos de infraestrutra através da criação de playbooks voltados a patches de segurança e manutenção de sistemas operacionais.
 1. Correção de vulnerabilidades e aplicação de boas práticas de segurança em ambientes RHEL, Windows e Linux.
