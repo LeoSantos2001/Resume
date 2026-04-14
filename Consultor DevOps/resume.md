@@ -12,9 +12,8 @@ Analista de Infraestrutura e DevOps com mais de 4 anos de experiência em ambien
 ## Competências
 
 - **Plataformas:**  OpenShift, AAP, RHEL, VMware
-- **Automation:** Ansible, Shell Script
 - **Cloud:** AWS e Azure
-- **CI/CD & DevOps:** Azure DevOps
+- **CI/CD & DevOps:** Azure DevOps, Ansible, Shell Script
 - **Observabilidade:** Datadog, Zabbix, Grafana
 
 ## Experiência Profissional
