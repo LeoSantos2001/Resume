@@ -17,7 +17,7 @@ Analista de Infraestrutura e DevOps com mais de 4 anos de experiência em ambien
 - **Observabilidade:** Datadog, Zabbix, Grafana
 
 ## Experiência Profissional
-### Platform Engineering
+### Platform Engineer
 **RWE** (Freelance) - Essen, Alemanha
 *Outubro 2025 - Dezembro 2025*
 
