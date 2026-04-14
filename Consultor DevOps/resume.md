@@ -48,7 +48,7 @@ Analista de Infraestrutura e DevOps com mais de 4 anos de experiência em ambien
 
 **Ciências da Computação**
 Universidade Católica de Brasília – Brasília, DF
-*Junho 2025 - Julho 2027*
+*Junho 2025 - Dezembro 2027*
 
 **Pós-Graduação em Cloud Computing**
 Centro Universitário de Brasília – Brasília, DF
