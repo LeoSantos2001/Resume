@@ -7,7 +7,7 @@
 
 ## Resumo
 
-Analista de Infraestrutura e DevOps com mais de 4 anos de experiência em ambientes críticos, atuando com Linux (RHEL), OpenShift e Kubernetes. Forte atuação em automação com Ansible, gestão de clusters, troubleshooting e resposta a incidentes em produção (N3), além de experiência em AWS e Azure.
+Platform Engineer com mais de 4 anos de experiência em ambientes críticos, atuando com Linux (RHEL), OpenShift e Kubernetes. Forte atuação em automação com Ansible, gestão de clusters, troubleshooting e resposta a incidentes em produção (N3), além de experiência em AWS e Azure.
 
 ## Competências
 
