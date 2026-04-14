@@ -7,48 +7,43 @@
 
 ## Resumo
 
-Analista de Infraestrutura e DevOps, com mais de 4 anos de experiência em ambientes de alta criticidade, com forte atuação em RHEL e Windows.
-Forte experiência em infraestrutura, administração Linux e plataformas de containers. Especializado em suporte a ambientes OpenShift
+Analista de Infraestrutura e DevOps com mais de 4 anos de experiência em ambientes críticos, atuando com Linux (RHEL), OpenShift e Kubernetes. Forte atuação em automação com Ansible, gestão de clusters, troubleshooting e resposta a incidentes em produção (N3), além de experiência em AWS e Azure.
 
 ## Competências
 
-- **Plataformas:**  OpenShift, Kubernetes, Linux (RHEL/CentOS), Docker
-- **Automation:** Ansible
+- **Plataformas:**  OpenShift, AAP, RHEL, VMware
+- **Automation:** Ansible, Shell Script
 - **Cloud:** AWS e Azure
-- **CI/CD & DevOps:** Azure DevOps 
-- **IaC & Operações:**  VMware, Monitoring (Datadgo e Zabbix), Troubleshooting, práticas de SRE
+- **CI/CD & DevOps:** Azure DevOps
+- **Observabilidade:** Datadog, Zabbix, Grafana
 
 ## Experiência Profissional
+### Platform Engineering
+**RWE** (Freelance) - Essen, Alemanha
+Outubro 2025 - Dezembro 2025 
 
-### Consultor DevOps
-**ORAEX Cloud Consulting** – Brasília, Brasil 
-Novembro 2022 – Setembro 2025
-
-1. Automação de processos através da criação de playbooks voltados a patches de segurança e manutenção de sistemas operacionais.
-1. Correção de vulnerabilidades e aplicação de boas práticas de segurança em ambientes RHEL, Windows e Linux.
-1. Criação de documentação técnica para suporte interno e comunicação com clientes.
-1. Treinamento e capacitação de novos integrantes da equipe em tecnologias como RHEL e OpenShift.
-1. Participação em treinamentos e eventos técnicos com parceiros estratégicos (Red Hat, AWS).
+1. Responsável pela administração e sustentação da infraestrutura AWS, com foco especializado em AWS ROSA (Red Hat OpenShift Service on AWS).
+2. Gestão de workloads conteinerizados, garantindo conformidade de segurança e automação de recursos de rede e storage.
+3. Implementação de projeto de monitoramento proativo de recursos energéticos através de painéis de observabilidade.
 
 ### Consultor DevOps
 **Getnet** (Contrato Indireto) – Brasília, Brasil 
 Novembro 2022 – Setembro 2025
 
-1. Atuação como plantonista N3 de OpenShift, sendo responsável por monitoramento do cluster e resposta rápida a incidentes em ambiente de produção.
-1. Implementação e administração de clusters OpenShift, incluindo configuração de ferramentas de monitoramento.
-1. Atuação como responsável primário na gestão de incidentes de plataforma, conduzindo root cause analysis e remediação em ambientes Linux, OpenShift e infraestrutur1. 
-1. Projeto de upgrade RHEL em mais de mil máquinas de produção, com automação do processo utilizando Ansible Automation Platform, incluindo troubleshooting e validação pós-implementação.
+1. Instalação e administração de clusters OpenShift, incluindo configuração de ferramentas de monitoramento.
+1. Atuação como plantonista N3 de OpenShift, sendo responsável pelo monitoramento do cluster e resposta rápida a incidentes em ambiente de produção.
+1. Projeto de upgrade de RHEL, abrangendo mais de mil hosts de prdução, com migração da de RHEL 6.4 para 8.10. O processo, inicialmente realizado de forma manual, foi automatizado por meio do Ansible Automation Platform.
+1. Atuação como responsável primário na gestão de incidentes de plataforma, conduzindo root cause analysis e remediação em ambientes RHEL, OpenShift e VMware.
 
-### Platform Engineering
-**RWE** - Essen, North Rhine-Westphalia
-Outubro 2025 - Dezembro 2025 
+### Consultor DevOps
+**ORAEX Cloud Consulting** – Brasília, Brasil 
+Novembro 2022 – Setembro 2025
 
-1. Responsável pela administração e sustentação da infraestrutura AWS, com foco especializado em AWS ROSA (Red Hat OpenShift Service on AWS).
-2. Gestão de workloads conteinerizados, garantindo conformidade de segurança e automação de recursos de rede e storage.
-3. Atuação no projeto de implementação do Grafana para monitorar a produção de recursos.
-4. Monitoramento proativo de recursos energéticos da empresa através de painéis de observabilidade, focando na redução de downtime e otimização de performance dos clusters.
-
-
+1. Automação de processos de infraestrutra através da criação de playbooks voltados a patches de segurança e manutenção de sistemas operacionais.
+1. Correção de vulnerabilidades e aplicação de boas práticas de segurança em ambientes RHEL, Windows e Linux.
+1. Criação de documentação técnica para suporte interno e comunicação com clientes.
+1. Treinamento e capacitação de novos integrantes da equipe em tecnologias como RHEL e OpenShift.
+1. Participação em treinamentos e eventos técnicos com parceiros estratégicos (Red Hat, AWS).
 
 ## Formação
 
@@ -63,11 +58,6 @@ Centro Universitário de Brasília – Brasília, DF
 **Análise e Desenvolvimento de Sistemas**
 Centro Universitário de Brasília – Brasília, DF
 *Março 2019 - Dezembro 2021*
-
-## Projetos
-
-### Upgrade RHEL
-Projeto de upgrade de RHEL no parque de máquinas da Getnet, envolvendo mais de mil hosts em ambiente de desenvolvimento, homologação, produção e transacional sendo feita o upgrade da versão 6.4 para a versão 8.10. As tarefas de atualização que eram inicialmente feitas manualmente foram automatizadas via Ansible Automation Platform, sendo necessários em alguns casos realização de troubleshooting para ser bem sucedido o processo.
 
 ## Idiomas
 
