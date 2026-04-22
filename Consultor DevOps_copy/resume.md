@@ -17,14 +17,6 @@ Platform Engineer com mais de 4 anos de experiência em ambientes críticos, atu
 - **Observabilidade:** Datadog, Zabbix, Grafana
 
 ## Experiência Profissional
-### Platform Engineer
-**RWE** (Freelance) - Essen, Alemanha
-*Outubro 2025 - Dezembro 2025*
-
-1. Responsável pela administração e sustentação da infraestrutura AWS, com foco especializado em AWS ROSA (Red Hat OpenShift Service on AWS).
-2. Gestão de workloads conteinerizados, garantindo conformidade de segurança e automação de recursos de rede e storage.
-3. Implementação de projeto de monitoramento proativo de recursos energéticos através de painéis de observabilidade.
-
 ### Consultor DevOps
 **Getnet** (Contrato Indireto) – Brasília, Brasil 
 *Novembro 2022 – Setembro 2025*
